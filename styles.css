@@ -1,0 +1,19 @@
+.landing{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+}
+
+.distortion{
+    width: 703px;
+    height: 657px;
+}
+
+.intro h2{
+    font-size: 2em;
+}
+
+.intro p{
+    font-size: 1.5em;
+}
